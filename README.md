@@ -8,7 +8,7 @@
 ### **DEPLOY SINI ANJINH**
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cioyourfvboynih/Fsub2)
 ### **DEPLOY DI BOT SINI COK**
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cioyourfvboynih/ciostring)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://telegram.dog/XTZ_HerokuBot?start=Y2lveW91cmZ2Ym95bmloL0ZzdWIyIG1haW4)
 ## Group Support:
    <a href="https://t.me/projectcio"><img src="https://img.shields.io/badge/Group%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
 ## Channel Support:
