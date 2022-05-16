@@ -1,6 +1,8 @@
 # ***𝘍𝘐𝘓𝘌-𝘚𝘏𝘈𝘙𝘐𝘕𝘎-𝘊𝘐𝘖***
 **NI KONTOL BUAT ELU TAPI CUMAN 2 BUTTON**
 
+**SEBERNYA GUA MALES GANTI PP DIBAWAH INI MAKANYA ITU ITU AJA**
+
 <p align="center">
   <img src="https://telegra.ph/file/81858c3a4428f97fec321.jpg">
 </p>
