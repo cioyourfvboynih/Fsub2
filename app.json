@@ -1,13 +1,13 @@
 {
-  "name": "TG File Sharing Bot",
+  "name": "CIO Sharing Bot",
   "description": "file sharing bot store posts and it can access by special links",
   "keywords": [
     "telegram",
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/ReyyNada/Reyy-XFsub-Bot2",
-  "logo": "https://telegra.ph/file/15078bdadfbab27d4847b.jpg",
+  "repository": "https://github.com/cioyourfvboynih/Fsub2",
+  "logo": "https://telegra.ph/file/81858c3a4428f97fec321.jpg",
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Your Bot token, Get it from @Botfather",
@@ -15,7 +15,7 @@
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": "2057503764"
+      "value": "1780709155"
     },
     "APP_ID":{
       "description": "your app id, take it from my.telegram.org",
@@ -31,11 +31,11 @@
     },
     "FORCE_SUB_CHANNEL1":{
       "description": "id of the channel or group, if you want enable force sub feature else put 0",
-      "value": "0"
+      "value": "-100"
     },
     "FORCE_SUB_CHANNEL2":{
       "description": "id of the channel or group, if you want enable force sub feature else put 0",
-      "value": "0"
+      "value": "-100"
     },
     "START_MESSAGE": {
       "description": "Optional: start message of bot, use HTML parsemode format",
