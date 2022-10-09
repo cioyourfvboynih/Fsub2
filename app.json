@@ -19,15 +19,15 @@
     },
     "APP_ID":{
       "description": "your app id, take it from my.telegram.org",
-      "value": ""
+      "value": "8910258"
     },
     "API_HASH":{
       "description": "your api hash, take it from my.telegram.org",
-      "value": ""
+      "value": "fbfe41a82f2a5fee2f07606392679515"
     },
     "CHANNEL_ID":{
       "description": "make a channel (database channel), then make the bot as admin in channel, and it's id",
-      "value": "-100"
+      "value": "-1001520989256"
     },
     "FORCE_SUB_CHANNEL1":{
       "description": "id of the channel or group, if you want enable force sub feature else put 0",
@@ -47,7 +47,7 @@
     },
     "ADMINS": {
       "description": "A space separated list of user_ids of Admins, they can only create links",
-      "value": "",
+      "value": "1780709155",
       "required": false
     }
   },
